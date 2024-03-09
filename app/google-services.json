@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789573080416",
+    "project_id": "pedov1-login",
+    "storage_bucket": "pedov1-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789573080416:android:8951f07b3afbce571a3a05",
+        "android_client_info": {
+          "package_name": "com.example.pedometerv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChabY4WyhYP3wvlKKaU7Ul6Xx0iIIkNbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
